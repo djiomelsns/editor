@@ -68,6 +68,9 @@ main div p{
     margin-top:15px ;
     border-bottom:2px dotted rgb(32, 32, 32) ;
 }
+#result{
+    margin-top: 20px;
+}
 
 
 
